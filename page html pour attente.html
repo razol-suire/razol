@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>RAZOL-SUIRE</title>
+</head>
+<body>
+<h1>Nouveau site RAZOL à venir</h1>
+<p>Merci de votre patience</p>
+<img src="https://www.canva.com/design/DAF04QKI4SU/fVdgjhVAwKAxks3JouSF9g/view?utm_content=DAF04QKI4SU&utm_campaign=designshare&utm_medium=link&utm_source=editor">
+<h2>Pour consulter les documentations:</h2>
+<a href="https://snrazol.github.io/documents/">Documentations</a>
+<h3>Suivez-nous sur les réseaux sociaux</h3>
+<a href="https://www.facebook.com/RazolAgriculture/">Facebook</a>
+<a href="https://www.instagram.com/razolsuire/">Instagram</a>
+<p>Pour nous contacter :</p>
+<p>contact@razol.fr</p>
+<p>05 53 84 19 20</p>
+<br>
+<body>
+</html>
